@@ -1,19 +1,4 @@
-<div align="center">
 
-![NzHelper](https://socialify.git.ci/bug-bit/NzHelper/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&stargazers=1&theme=Auto)
-
-# NzHelper
-
-[![license](https://img.shields.io/github/license/bug-bit/NzHelper.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![Stars](https://img.shields.io/github/stars/bug-bit/NzHelper?label=stars)](https://github.com/bug-bit/NzHelper)
-<a href="https://github.com/bug-bit/NzHelper/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bug-bit/NzHelper/total?label=Downloads"></a>
-[![GitHub Release](https://img.shields.io/github/v/release/bug-bit/NzHelper)](https://github.com/bug-bit/NzHelper/releases)
-<a href="https://github.com/bug-bit/NzHelper/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/bug-bit/NzHelper"></a>
-
-
-</div>
-
----
 
 ## 说明
 > 在 GitHub 点击 ⭐ Star 以支持我在空余时间继续开发
