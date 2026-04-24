@@ -10,7 +10,6 @@
 [![GitHub Release](https://img.shields.io/github/v/release/bug-bit/NzHelper)](https://github.com/bug-bit/NzHelper/releases)
 <a href="https://github.com/bug-bit/NzHelper/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/bug-bit/NzHelper"></a>
 
-一个简单、高效、易用的打飞机记录工具，帮助你科学管理✈️生活
 
 </div>
 
@@ -18,7 +17,6 @@
 
 ## 说明
 > 在 GitHub 点击 ⭐ Star 以支持我在空余时间继续开发
-> 祝愿所有给本项目Star的小伙伴牛子长度翻倍！
   
 - 本项目参考了以下开源项目：
 - [DickHelper](https://github.com/zzzdajb/DickHelper)
